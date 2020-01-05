@@ -6,6 +6,6 @@ const app = new App({
   props: {
     message
   }
-})
+})  
 
 export default app
