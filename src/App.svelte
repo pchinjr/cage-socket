@@ -15,7 +15,7 @@
 </style>
 
 <h1>{message}</h1>
-<h2>The Lord's Prayer</h2>
-<p>Our Cage, who art thy savior,</p>
+<h2>The Lord Prayer</h2>
+<p><strong>Our Cage,</strong> who art thy savior,</p>
 <p>Nicolas by thy name</p>
 <p>The Lord of War will come,</p>

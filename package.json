@@ -28,5 +28,6 @@
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0",
     "tiny-json-http": "^7.1.2"
-  }
+  },
+  "dependencies": {}
 }
